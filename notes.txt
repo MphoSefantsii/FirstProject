@@ -1,0 +1,7 @@
+// EDIT PROJECT => Git status => Git add => Git commit => Git push => GITHUB
+
+// PRs => Review => Merge
+
+// CircleCI automated check/build
+
+// Vercel / netlify deployment
